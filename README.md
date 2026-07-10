@@ -6,7 +6,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://FlixStudio-ui-clone-nine-pi.vercel.app/
+🔗 **Live Website:** https://cineverse-ui.vercel.app/
 
 ## 📸 Preview
 
