@@ -1,12 +1,12 @@
-# 🎬 FlixStudio – Netflix UI Clone
+# 🎬 FlixStudio
 
-A **pixel-perfect recreation of the Netflix Home & Landing Page**, built entirely from scratch using **HTML5** and **CSS3**.
+A **pixel-perfect recreation of the FlixStudio Home & Landing Page**, built entirely from scratch using **HTML5** and **CSS3**.
 
 This project was created to strengthen my understanding of **semantic HTML**, **modern CSS layouts (Flexbox & Grid)**, and **responsive web design** without relying on external UI frameworks such as Bootstrap or Tailwind CSS.
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://netflix-ui-clone-nine-pi.vercel.app/
+🔗 **Live Website:** https://FlixStudio-ui-clone-nine-pi.vercel.app/
 
 ## 📸 Preview
 
@@ -16,7 +16,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 ## ✨ Features
 
-* 🎯 **Pixel-Perfect UI** – Closely replicates the look and feel of the Netflix landing page.
+* 🎯 **Pixel-Perfect UI** – Closely replicates the look and feel of the FlixStudio landing page.
 * 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices using CSS Media Queries.
 * 🎨 **Modern Layouts** – Built with CSS Flexbox and Grid for clean, responsive layouts.
 * 🖱️ **Interactive Components** – Includes hover effects, smooth transitions, and styled buttons.
@@ -40,7 +40,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
   * Transitions & Animations
 * **Google Fonts**
 
-  * Typography inspired by the Netflix design language
+  * Typography inspired by the FlixStudio design language
 
 ---
 
@@ -97,4 +97,4 @@ If you found this project helpful or enjoyed exploring it, please consider givin
 
 ## 📄 License
 
-This project is created **for educational and portfolio purposes only**. It is **not affiliated with, endorsed by, or associated with Netflix, Inc.**
+This project is created **for educational and portfolio purposes only**. It is **not affiliated with, endorsed by, or associated with FlixStudio, Inc.**
