@@ -47,7 +47,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 ## 📂 Project Structure
 
 ```text
-FlixStudio/
+Netflix/
 │── assets/
 │   ├── images/
 │   ├── icons/
@@ -97,4 +97,4 @@ If you found this project helpful or enjoyed exploring it, please consider givin
 
 ## 📄 License
 
-This project is created **for educational and portfolio purposes only**. It is **not affiliated with, endorsed by, or associated with FlixStudio, Inc.**
+This project is created **for educational and portfolio purposes only**. It is **not affiliated with, endorsed by, or associated with Netflix, Inc.**
