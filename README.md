@@ -1,4 +1,4 @@
-# 🎬 FlixStudio
+# 🎬 Netflix-Ui-Clone
 
 A **pixel-perfect recreation of the FlixStudio Home & Landing Page**, built entirely from scratch using **HTML5** and **CSS3**.
 
