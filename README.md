@@ -6,7 +6,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 ## 🚀 Live Demo
 
-🔗 #Live Website: https://flixstudio-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/
+🔗 ##Live Website: https://flixstudio-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/
 
 ## 📸 Preview
 
