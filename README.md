@@ -10,9 +10,8 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 ## 📸 Preview
 
-> Add screenshots or a GIF of the project here.
+<img width="1897" height="883" alt="image" src="https://github.com/user-attachments/assets/103bf74b-24f8-4f4f-b2c1-dbe2d506babb" />
 
----
 
 ## ✨ Features
 
