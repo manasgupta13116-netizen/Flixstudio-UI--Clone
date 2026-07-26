@@ -10,6 +10,9 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 ## 📸 Preview
 <img width="1897" height="820" alt="image" src="https://github.com/user-attachments/assets/153bce33-3149-45a4-88c7-2081ab395617" />
+<img width="388" height="626" alt="image" src="https://github.com/user-attachments/assets/b24751c7-2e26-42fb-a4a9-7293b23b2a3b" />
+<img width="385" height="556" alt="image" src="https://github.com/user-attachments/assets/bd6ac0b3-d6a1-4413-aca7-5228516f8eb9" />
+<img width="1893" height="820" alt="image" src="https://github.com/user-attachments/assets/4e1479f1-b722-404b-bb40-030fe3b00549" />
 
 ## ✨ Features
 
