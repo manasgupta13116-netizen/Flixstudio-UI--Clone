@@ -9,8 +9,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 🔗 **Live Website**: https://netflix-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/
 
 ## 📸 Preview
-
-<img width="1897" height="883" alt="image" src="<img width="1897" height="887" alt="image" src="https://github.com/user-attachments/assets/03b7336e-1143-474b-a6a4-2bdaa7d27c06""/>
+<img width="1897" height="820" alt="image" src="https://github.com/user-attachments/assets/153bce33-3149-45a4-88c7-2081ab395617" />
 
 ## ✨ Features
 
