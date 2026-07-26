@@ -1,4 +1,4 @@
-<img width="1897" height="887" alt="image" src="https://github.com/user-attachments/assets/03b7336e-1143-474b-a6a4-2bdaa7d27c06" /># 🎬 Netflix-Ui-Clone
+## 🎬 Netflix-Ui-Clone
 
 A **pixel-perfect recreation of the FlixStudio Home & Landing Page**, built entirely from scratch using **HTML5** and **CSS3**.
 
@@ -10,8 +10,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 ## 📸 Preview
 
-<img width="1897" height="883" alt="image" src="![Uploading image.png…]()
-" />
+<img width="1897" height="883" alt="image" src="<img width="1897" height="887" alt="image" src="https://github.com/user-attachments/assets/03b7336e-1143-474b-a6a4-2bdaa7d27c06""/>
 
 ## ✨ Features
 
