@@ -12,7 +12,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 <img width="1897" height="883" alt="image" src="https://netflix-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/" />
 
-
+https://netflix-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/
 ## ✨ Features
 
 * 🎯 **Pixel-Perfect UI** – Closely replicates the look and feel of the FlixStudio landing page.
