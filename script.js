@@ -1,5 +1,5 @@
 
-
+// Scrip.js
 
 document.querySelectorAll(".faq-icon").forEach(icon => icon.onclick = () => {
             icon.closest(".faq-box").classList.toggle("active");
