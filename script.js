@@ -1,5 +1,7 @@
 
-        document.querySelectorAll(".faq-icon").forEach(icon => icon.onclick = () => {
+
+
+document.querySelectorAll(".faq-icon").forEach(icon => icon.onclick = () => {
             icon.closest(".faq-box").classList.toggle("active");
             icon.innerText = icon.closest(".faq-box").classList.contains("active") ? "-" : "+";
         });
